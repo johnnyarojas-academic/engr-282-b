@@ -1,0 +1,122 @@
+#+TITLE: Course Schedule: W26 Sophomore Design Lab (ENGR-282-B)
+
+* TODO General
+** TODO IEEE SEC 25 HW Competition PDF
+** TODO IEEE Design Details Manual 2 PDF
+** TODO VEX Programing and Other Information
+
+* TODO Week 1: January 15
+** TODO Thoughts related to developing a problem statement DOCX
+** TODO Develop Problem Statement
+*** TODO Opened: Tuesday, January 13, 2026, 12:00 AM
+*** TODO Due: Wednesday, January 21, 2026, 12:00 PM
+
+* TODO Week 2: Jan 22
+** TODO Project Schedule Assignment OOCX
+** TODO Project Schedule
+*** TODO Opened: Wednesday, January 14, 2026, 8:00 PM
+*** TODO Due: Thursday, January 29, 2026, 12:00 PM
+** TODO Engineering Design Process: Project Schedule PPT
+
+* TODO Week 3: Jan 29
+** TODO Design Brief Template OOCX
+** TODO Design Brief
+*** TODO Opened: Monday, January 5, 2026, 12:00 AM
+*** TODO Due: Thursday, February 5, 2026, 12:00 PM
+
+* TODO Week 4: Feb 5
+** TODO Project Requirements Thoughts OOCX
+** TODO Requirements Report
+*** TODO Opened: Monday, January 5, 2026, 12:00 AM
+*** TODO Due: Thursday, February 12, 2026, 12:00 PM
+** TODO Quiz 1 Chap 4/5
+** TODO Scoring Chart DOCX
+
+* TODO Week 5: Feb 12
+** TODO Flow Diagram and Concept Generation
+*** TODO Opened: Sunday, January 18, 2026, 12:00 AM
+*** TODO Due: Thursday, February 19, 2026, 12:00 PM
+** TODO Quiz 3
+*** TODO Opened: Thursday, February 12, 2026, 2:00 PM
+*** TODO Closed: Thursday, February 12, 2026, 2:20 PM
+** TODO Flow Dia and Concept Generation DOCX
+
+* TODO Week 6: Feb 19
+** TODO Alternative Analysis Report
+*** TODO Opened: Tuesday, February 17, 2026, 12:00 AM
+*** TODO Due: Thursday, March 5, 2026, 12:00 PM
+** TODO Alternative Analysis Directions Start Here DOCX
+** TODO Pro-Con Anaylsis Template MDP-1191 (1) DOCX
+** TODO Weighted-Decision-Matrix-Template-TemplateLab.com DOCX
+** TODO SWOT Analysis Template DOCX
+** TODO Weighted-Decision-Matrix-Template-TemplateLab.com XLSX
+** TODO Morphology Template MDP-1191, 00CX
+
+* TODO Week 7: Feb 26
+** TODO Quiz 4
+*** TODO Opened: Thursday, February 19, 2026, 2:04 PM
+*** TODO Closed: Thursday, February 19, 2026, 2:24 PM
+
+* TODO Week 8: Mar 5
+** TODO Initial Project Operational Demonstration
+*** TODO Opened: Wednesday, January 7, 2026, 12:00 AM
+*** TODO Due: Thursday, March 5, 2026, 2:00 PM
+** TODO Project Scope PPTX
+** TODO Project Scope Report
+*** TODO Opened: Wednesday, February 25, 2026, 12:00 AM
+*** TODO Due: Thursday, March 12, 2026, 8:00 PM
+
+* TODO Week 9: Mar 12
+** TODO Examples for project deliverables PPTX
+** TODO List of Deliverable
+*** TODO Opened: Tuesday, February 3, 2026, 12:00 AM
+*** TODO Due: Thursday, March 26, 2026, 10:00 AM
+** TODO Chapter 7-8 Quiz
+*** TODO Opens: Thursday, March 12, 2026, 2:00 PM
+*** TODO Closes: Thursday, March 12, 2026, 2:30 PM
+
+* TODO Week 10: Mar 19 Spring Break No Class
+
+* TODO Week 11: Mar 26
+** TODO Thoughts on Project Assumptions PPTX
+** TODO List of Assumptions
+*** TODO Opens: Tuesday, March 10, 2026, 1:00 AM
+*** TODO Due: Thursday, April 2, 2026, 12:00 PM
+
+* TODO Week 12: April 2
+** TODO Preliminary Design Package
+*** TODO Opens: Tuesday, March 17, 2026, 1:00 AM
+*** TODO Due: Thursday, April 9, 2026, 8:00 PM
+** TODO Design Review Meeting 3
+*** TODO Opens: Wednesday, April 8, 2026, 12:00 AM
+*** TODO Due: Thursday, April 9, 2026, 2:00 PM
+
+* TODO Week 13: April 9
+** TODO Sample Bill of Material XLSX
+** TODO Bill of Material
+*** TODO Opens: Tuesday, March 10, 2026, 2:00 AM
+*** TODO Due: Thursday, April 16, 2026, 8:00 PM
+** TODO Second Operational Project Demonstration
+*** TODO Opened: Tuesday, January 13, 2026, 12:00 AM
+*** TODO Due: Thursday, April 9, 2026, 12:00 AM
+
+* TODO Week 14: April 16
+
+* TODO Week 15: April 23
+** TODO Thoughts and Sample Test Plan DOCX
+** TODO Startup and Test Plan
+*** TODO Opens: Tuesday, March 31, 2026, 2:00 AM
+*** TODO Due: Thursday, April 23, 2026, 12:00 PM
+
+* TODO Week 16: April 30
+** TODO Final Project Report/Proposal
+*** TODO Opens: Sunday, April 19, 2026, 2:00 AM
+*** TODO Due: Thursday, April 30, 2026, 5:00 PM
+** TODO Class Project Final Operational Demonstration
+*** TODO Opens: Sunday, April 5, 2026, 12:00 AM
+*** TODO Due: Thursday, April 30, 2026, 2:00 PM
+
+* TODO Week 17: May 7
+** TODO Final Presentation
+*** TODO Opens: Tuesday, May 5, 2026, 2:00 AM
+*** TODO Due: Tuesday, May 5, 2026, 8:00 PM
