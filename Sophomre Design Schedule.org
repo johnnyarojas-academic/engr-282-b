@@ -1,48 +1,50 @@
 #+TITLE: Course Schedule: W26 Sophomore Design Lab (ENGR-282-B)
 
-* TODO General
-** TODO IEEE SEC 25 HW Competition PDF
-** TODO IEEE Design Details Manual 2 PDF
-** TODO VEX Programing and Other Information
+* DONE General
+** DONE IEEE SEC 25 HW Competition PDF
+** DONE IEEE Design Details Manual 2 PDF
+** DONE VEX Programing and Other Information
 
-* TODO Week 1: January 15
-** TODO Thoughts related to developing a problem statement DOCX
-** TODO Develop Problem Statement
-*** TODO Opened: Tuesday, January 13, 2026, 12:00 AM
-*** TODO Due: Wednesday, January 21, 2026, 12:00 PM
+* DONE Week 1: January 15
+** DONE Thoughts related to developing a problem statement DOCX
+** DONE Develop Problem Statement
+*** DONE Opened: Tuesday, January 13, 2026, 12:00 AM
+*** DONE Due: Wednesday, January 21, 2026, 12:00 PM
 
-* TODO Week 2: Jan 22
-** TODO Project Schedule Assignment OOCX
-** TODO Project Schedule
-*** TODO Opened: Wednesday, January 14, 2026, 8:00 PM
-*** TODO Due: Thursday, January 29, 2026, 12:00 PM
-** TODO Engineering Design Process: Project Schedule PPT
+* DONE Week 2: Jan 22
+** DONE Project Schedule Assignment OOCX
+** DONE Project Schedule
+*** DONE Opened: Wednesday, January 14, 2026, 8:00 PM
+*** DONE Due: Thursday, January 29, 2026, 12:00 PM
+** DONE Engineering Design Process: Project Schedule PPT
 
-* TODO Week 3: Jan 29
-** TODO Design Brief Template OOCX
-** TODO Design Brief
-*** TODO Opened: Monday, January 5, 2026, 12:00 AM
-*** TODO Due: Thursday, February 5, 2026, 12:00 PM
+* DONE Week 3: Jan 29
+** DONE Design Brief Template OOCX
+** DONE Design Brief
+*** DONE Opened: Monday, January 5, 2026, 12:00 AM
+*** DONE Due: Thursday, February 5, 2026, 12:00 PM
 
-* TODO Week 4: Feb 5
-** TODO Project Requirements Thoughts OOCX
-** TODO Requirements Report
-*** TODO Opened: Monday, January 5, 2026, 12:00 AM
-*** TODO Due: Thursday, February 12, 2026, 12:00 PM
-** TODO Quiz 1 Chap 4/5
-** TODO Scoring Chart DOCX
+* DONE Week 4: Feb 5
+** DONE Project Requirements Thoughts OOCX
+** DONE Requirements Report
+*** DONE Opened: Monday, January 5, 2026, 12:00 AM
+*** DONE Due: Thursday, February 12, 2026, 12:00 PM
+** DONE Quiz 1 Chap 4/5
+** DONE Scoring Chart DOCX
 
-* TODO Week 5: Feb 12
-** TODO Flow Diagram and Concept Generation
-*** TODO Opened: Sunday, January 18, 2026, 12:00 AM
-*** TODO Due: Thursday, February 19, 2026, 12:00 PM
-** TODO Quiz 3
-*** TODO Opened: Thursday, February 12, 2026, 2:00 PM
-*** TODO Closed: Thursday, February 12, 2026, 2:20 PM
-** TODO Flow Dia and Concept Generation DOCX
+* DONE Week 5: Feb 12
+** DONE Flow Diagram and Concept Generation
+*** DONE Opened: Sunday, January 18, 2026, 12:00 AM
+*** DONE Due: Thursday, February 19, 2026, 12:00 PM
+** DONE Quiz 3
+*** DONE Opened: Thursday, February 12, 2026, 2:00 PM
+*** DONE Closed: Thursday, February 12, 2026, 2:20 PM
+** DONE Flow Dia and Concept Generation DOCX
 
 * TODO Week 6: Feb 19
-** TODO Alternative Analysis Report
+** TODO Alternative Analysis Report (Submission)
+Grading criteria:
+
 *** TODO Opened: Tuesday, February 17, 2026, 12:00 AM
 *** TODO Due: Thursday, March 5, 2026, 12:00 PM
 ** TODO Alternative Analysis Directions Start Here DOCX
